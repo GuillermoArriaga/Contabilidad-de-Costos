@@ -1,0 +1,32 @@
+Concepto,Importe,Funcion,Comportamiento
+Mantenimiento maquinas de cocer,45000,CIF,C Variable
+Energia electrica almacen articulo terminado,12500,GV,G Variable
+Sueldo gerente produccion,75000,CIF,C Fijo
+Piel,200000,CMPD,C Variable
+Telefono oficina ventas,13200,GV,G Variable
+Sueldo gerente general,100000,GA,G Fijo
+Telefono almacen produccion en proceso,65000,CIF,C Variable
+Sueldo personal costura cierres de portafolios,125000,CMOD,C Fijo
+Broches para portafolios,195000,CMPD,C Variable
+Depreciacion eq. computo gerente produccion,5600,CIF,C Fijo
+Sueldo vigilancia acceso a empresa,15000,GA,G Fijo
+Bonos de productividad a obreros,65000,CMOD,C Variable
+Sueldo aux. contable depto. produccion,12300,CIF,C Fijo
+Depreciacion maquinas de cocer,2500,CIF,C Fijo
+Hilo,25000,CIF,C Variable
+Amortizacion gastos instal. fabrica,25000,CIF,C Fijo
+Gasolina equipo reparto,3500,GV,G Variable
+Comisiones bancarias por manejo de cuentas,2000,GF,G Variable
+Articulos limpieza depto. ventas,1500,GV,G Variable
+Cierres de 50cm para portafolios,45000,CMPD,C Variable
+Intereses bancarios por financiamiento,6500,GF,G Fijo
+Sueldo personal corte de piel,120000,CMOD,C Fijo
+Comisiones vendedores,25000,GV,G Variable
+Papeleria secretaria del gerente ventas,2500,GV,G Variable
+Sueldo personal Tecnol. Informacion empresa,45000,GA,G Fijo
+Etiquetas para portafolios,25000,CIF,C Variable
+Prima seguros contra incendios de la empresa,6000,GA,G Fijo
+Bolsas para empaquetado de portafolios,90000,CIF,C Variable
+Agua potable linea de produccion,25000,CIF,C Variable
+Deprec. montacargas depto. produccion,2500,CIF,C Fijo
+Sueldo jefe depto. produccion,15000,CIF,C Fijo

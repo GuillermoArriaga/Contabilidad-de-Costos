@@ -1,0 +1,25 @@
+Concepto,Importe,Funcion,Comportamiento
+Tela,45000,CMPD,C Fijo
+Amortizacion de oficina de ventas,7000,GV,C Variable
+Botones,45000,CMPD,G Fijo
+Cierres,19000,CMPD,G Variable
+Comision a jefes del depto. de produccion,43000,CIF,C Fijo
+Comision a vendedores,50000,GV,C Variable
+Comisiones bancarias pagadas,12500,GF,G Fijo
+Compra de computadoras del depto. ventas,40000,GV,G Variable
+Deprec. eq. de transporte del director general,15000,GA,C Fijo
+Hilo,36000,CIF,C Variable
+Maquina de cocer,17600,CIF,G Fijo
+Maquina para estampado,45000,CIF,G Variable
+Papeleria para el depto. de ventas,12300,GV,C Fijo
+Poliza seguros contra incendios depto. de prod.,30000,CIF,C Variable
+Renta de la oficina administrativa,25000,GA,G Fijo
+Renta de la oficina de ventas,18000,GV,G Variable
+Sueldo del auxiliar contable depto. de produc.,18000,CIF,C Fijo
+Sueldo de costureras,35000,CMOD,C Variable
+Sueldo de intendencia del depto. de ventas,14000,GV,G Fijo
+Sueldo del director de produccion,65000,CIF,G Variable
+Telefono de la oficina administrativa,12000,GA,C Fijo
+Telefono de la oficina de ventas,15000,GV,C Variable
+Vigilancia de acceso al area de produccion,8000,CIF,G Fijo
+Volantes,18000,GV,G Variable

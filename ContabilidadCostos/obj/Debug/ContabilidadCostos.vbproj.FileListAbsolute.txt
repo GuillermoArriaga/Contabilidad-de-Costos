@@ -1,0 +1,12 @@
+E:\Codes\VisualStudio\Projects\ContabilidadCostos\ContabilidadCostos\bin\Debug\ContabilidadCostos.exe.config
+E:\Codes\VisualStudio\Projects\ContabilidadCostos\ContabilidadCostos\bin\Debug\ContabilidadCostos.exe
+E:\Codes\VisualStudio\Projects\ContabilidadCostos\ContabilidadCostos\bin\Debug\ContabilidadCostos.pdb
+E:\Codes\VisualStudio\Projects\ContabilidadCostos\ContabilidadCostos\bin\Debug\ContabilidadCostos.xml
+E:\Codes\VisualStudio\Projects\ContabilidadCostos\ContabilidadCostos\obj\Debug\ContabilidadCostos.vbprojResolveAssemblyReference.cache
+E:\Codes\VisualStudio\Projects\ContabilidadCostos\ContabilidadCostos\obj\Debug\ContabilidadCostos.fContabilidadCostos.resources
+E:\Codes\VisualStudio\Projects\ContabilidadCostos\ContabilidadCostos\obj\Debug\ContabilidadCostos.Resources.resources
+E:\Codes\VisualStudio\Projects\ContabilidadCostos\ContabilidadCostos\obj\Debug\ContabilidadCostos.vbproj.GenerateResource.Cache
+E:\Codes\VisualStudio\Projects\ContabilidadCostos\ContabilidadCostos\obj\Debug\ContabilidadCostos.exe
+E:\Codes\VisualStudio\Projects\ContabilidadCostos\ContabilidadCostos\obj\Debug\ContabilidadCostos.xml
+E:\Codes\VisualStudio\Projects\ContabilidadCostos\ContabilidadCostos\obj\Debug\ContabilidadCostos.pdb
+E:\Codes\VisualStudio\Projects\ContabilidadCostos\ContabilidadCostos\obj\Debug\ContabilidadCostos.FormInforme.resources
